@@ -14,4 +14,4 @@ require('./controllers/quiz.controller.server')(app);
 require('./controllers/question.controller.server')(app);
 
 app.listen(3000);
-console.log('success');
+//console.log('success');
