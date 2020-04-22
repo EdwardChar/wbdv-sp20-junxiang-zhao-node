@@ -28,6 +28,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Whiteboard\sp20-junxiang-zhao-node-server" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -52,7 +57,8 @@
       <updated>1587189901032</updated>
       <workItem from="1587189902236" duration="4828000" />
       <workItem from="1587237808063" duration="155000" />
-      <workItem from="1587237989549" duration="3232000" />
+      <workItem from="1587237989549" duration="9824000" />
+      <workItem from="1587431705190" duration="16494000" />
     </task>
     <servers />
   </component>
